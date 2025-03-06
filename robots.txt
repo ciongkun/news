@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ciongkun.github.io/news/sitemap.xml
